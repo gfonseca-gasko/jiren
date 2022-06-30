@@ -1,0 +1,614 @@
+{
+  "docs": [
+    {
+      "_id": "616baebd38b86900099acc0a",
+      "isExpress": true,
+      "cod": "LF5",
+      "name": "LF5",
+      "document": "14055516002000",
+      "origin_zipcode": "03036000",
+      "priority": 95,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:57.884Z",
+      "updated_at": "2021-10-17T05:03:57.884Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebdecbbf700093ef700",
+      "isExpress": false,
+      "cod": "PE",
+      "name": "PE",
+      "document": "14055516001462",
+      "origin_zipcode": "54335175",
+      "priority": 5,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": "warehouse_processing_time",
+          "cod": "warehouseProcessingTime",
+          "name": "warehouseProcessingTime"
+        },
+        {
+          "value": "supplier_delivery_time",
+          "cod": "supplierDeliveryTime",
+          "name": "supplierDeliveryTime"
+        },
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:57.950Z",
+      "updated_at": "2021-10-17T05:03:57.950Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebd8c0a1600093d865e",
+      "isExpress": false,
+      "cod": "MGVT",
+      "name": "MGVT",
+      "document": "99999999999999",
+      "origin_zipcode": "13295000",
+      "priority": 10,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:57.940Z",
+      "updated_at": "2021-10-17T05:03:57.940Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebd00dfcc0009340241",
+      "isExpress": false,
+      "cod": "MGBI",
+      "name": "MGBI",
+      "document": "88888888888888",
+      "origin_zipcode": "16204240",
+      "priority": 11,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:57.940Z",
+      "updated_at": "2021-10-17T05:03:57.940Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebdb7a3cc000852361a",
+      "isExpress": false,
+      "cod": "MH1",
+      "name": "MH1",
+      "document": "31680178000235",
+      "origin_zipcode": "13295000",
+      "priority": 8,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": "warehouse_processing_time",
+          "cod": "warehouseProcessingTime",
+          "name": "Tempo de Processamento no Armazém"
+        },
+        {
+          "value": "supplier_delivery_time",
+          "cod": "supplierDeliveryTime",
+          "name": "supplierDeliveryTime"
+        },
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:57.921Z",
+      "updated_at": "2021-10-17T05:03:57.921Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebd70a09c0008cab4b2",
+      "isExpress": false,
+      "cod": "LF11",
+      "name": "LF11",
+      "document": "14055516002787",
+      "origin_zipcode": "06328330",
+      "priority": 105,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:57.930Z",
+      "updated_at": "2021-10-17T05:03:57.930Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebdf516ac00082cf852",
+      "isExpress": false,
+      "cod": "VT",
+      "name": "VT",
+      "document": "14055516000390",
+      "origin_zipcode": "13295000",
+      "priority": 0,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": "warehouse_processing_time",
+          "cod": "warehouseProcessingTime",
+          "name": "Tempo de Processamento no Armazém"
+        },
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.006Z",
+      "updated_at": "2021-10-17T05:03:58.006Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebd704dc10009f7f80c",
+      "isExpress": false,
+      "cod": "LF10",
+      "name": "LF10",
+      "document": "14055516003082",
+      "origin_zipcode": "13206765",
+      "priority": 104,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.003Z",
+      "updated_at": "2021-10-17T05:03:58.003Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebd4993f4000970388f",
+      "isExpress": false,
+      "cod": "BI",
+      "name": "BI",
+      "document": "14055516001039",
+      "origin_zipcode": "16204240",
+      "priority": 7,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": "warehouse_processing_time",
+          "cod": "warehouseProcessingTime",
+          "name": "Tempo de Processamento no Armazém"
+        },
+        {
+          "value": "supplier_delivery_time",
+          "cod": "supplierDeliveryTime",
+          "name": "supplierDeliveryTime"
+        },
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.004Z",
+      "updated_at": "2021-10-17T05:03:58.004Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebd06df8c00094a6ab3",
+      "isExpress": false,
+      "cod": "LF2",
+      "name": "LF2",
+      "document": "14055516002191",
+      "origin_zipcode": "05305060",
+      "priority": 92,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.014Z",
+      "updated_at": "2021-10-17T05:03:58.014Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebd6c453600093d313d",
+      "isExpress": false,
+      "cod": "LF6",
+      "name": "LF6",
+      "document": "14055516002434",
+      "origin_zipcode": "13087901",
+      "priority": 96,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.008Z",
+      "updated_at": "2021-10-17T05:03:58.008Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebe4519ce00089e4220",
+      "isExpress": false,
+      "cod": "JO",
+      "name": "JO",
+      "document": "14055516001977",
+      "origin_zipcode": "89219507",
+      "priority": 6,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": "warehouse_processing_time",
+          "cod": "warehouseProcessingTime",
+          "name": "Tempo de Processamento no Armazém"
+        },
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.036Z",
+      "updated_at": "2021-10-17T05:03:58.036Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebefc3e5f000974fd44",
+      "isExpress": false,
+      "cod": "LF4",
+      "name": "LF4",
+      "document": "14055516001543",
+      "origin_zipcode": "05305060",
+      "priority": 94,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.063Z",
+      "updated_at": "2021-10-17T05:03:58.063Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebea669dd0008be9c5c",
+      "isExpress": false,
+      "cod": "BAR",
+      "name": "BAR",
+      "document": "14055516001624",
+      "origin_zipcode": "06421400",
+      "priority": 10,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.105Z",
+      "updated_at": "2021-10-17T05:03:58.105Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebe401cf5000891f652",
+      "isExpress": true,
+      "cod": "LF7",
+      "name": "LF7",
+      "document": "14055516002949",
+      "origin_zipcode": "05465070",
+      "priority": 101,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.090Z",
+      "updated_at": "2022-02-04T19:52:03.397Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebef0433c0008454978",
+      "isExpress": false,
+      "cod": "LF9",
+      "name": "LF9",
+      "document": "14055516002868",
+      "origin_zipcode": "14020390",
+      "priority": 103,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.082Z",
+      "updated_at": "2021-10-17T05:03:58.082Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebe66c96a00084f280f",
+      "isExpress": false,
+      "cod": "GL",
+      "name": "Filial Global",
+      "document": "0",
+      "origin_zipcode": "0",
+      "priority": 1,
+      "type": {
+        "cod": "GLOBAL",
+        "name": "Global"
+      },
+      "extra": [],
+      "created_at": "2021-10-17T05:03:58.181Z",
+      "updated_at": "2021-10-17T05:03:58.181Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebe38d0b3000822e1e3",
+      "isExpress": false,
+      "cod": "HMGBH",
+      "name": "HMGBH",
+      "document": "31680178000405",
+      "origin_zipcode": "32183050",
+      "priority": 100,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.184Z",
+      "updated_at": "2021-10-17T05:03:58.184Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebe97fff1000940aa5e",
+      "isExpress": false,
+      "cod": "MG",
+      "name": "MG",
+      "document": "14055516000814",
+      "origin_zipcode": "37640000",
+      "priority": 0,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": "warehouse_processing_time",
+          "cod": "warehouseProcessingTime",
+          "name": "Tempo de Processamento no Armazém"
+        },
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.176Z",
+      "updated_at": "2021-10-17T05:03:58.176Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebec1d4c70009488f5e",
+      "isExpress": false,
+      "cod": "SP",
+      "name": "SP",
+      "document": "14055516000490",
+      "origin_zipcode": "13295000",
+      "priority": 1,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": "warehouse_processing_time",
+          "cod": "warehouseProcessingTime",
+          "name": "Tempo de Processamento no Armazém"
+        },
+        {
+          "value": "supplier_delivery_time",
+          "cod": "supplierDeliveryTime",
+          "name": "supplierDeliveryTime"
+        },
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.180Z",
+      "updated_at": "2021-10-17T05:03:58.180Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebefa943400095a9939",
+      "isExpress": false,
+      "cod": "LF8",
+      "name": "LF8",
+      "document": "14055516002604",
+      "origin_zipcode": "09891110",
+      "priority": 102,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.192Z",
+      "updated_at": "2021-10-17T05:03:58.192Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebe33b38000094bb7ba",
+      "isExpress": true,
+      "cod": "LF1",
+      "name": "LF1",
+      "document": "14055516001209",
+      "origin_zipcode": "04730090",
+      "priority": -3,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.195Z",
+      "updated_at": "2021-10-17T05:03:58.195Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebebb58a1000883661e",
+      "isExpress": false,
+      "cod": "SC",
+      "name": "SC",
+      "document": "14055516000571",
+      "origin_zipcode": "88311600",
+      "priority": 4,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": "warehouse_processing_time",
+          "cod": "warehouseProcessingTime",
+          "name": "Tempo de Processamento no Armazém"
+        },
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.192Z",
+      "updated_at": "2021-10-17T05:03:58.192Z",
+      "__v": 0
+    },
+    {
+      "_id": "616baebef3674400081cb32d",
+      "isExpress": false,
+      "cod": "LF3",
+      "name": "LF3",
+      "document": "14055516001110",
+      "origin_zipcode": "05305060",
+      "priority": 93,
+      "type": {
+        "cod": "VIRTUAL",
+        "name": "ecommerce"
+      },
+      "extra": [
+        {
+          "value": 1,
+          "cod": "defaultWarehouseProcessingTime",
+          "name": "defaultWarehouseProcessingTime"
+        }
+      ],
+      "created_at": "2021-10-17T05:03:58.223Z",
+      "updated_at": "2021-10-17T05:03:58.223Z",
+      "__v": 0
+    }
+  ],
+  "total": 24,
+  "limit": 30,
+  "page": 1,
+  "pages": 1
+}

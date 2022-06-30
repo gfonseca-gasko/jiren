@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+/*noinspection CssUnusedSymbol*/
+.badge-success {
+    background-color: green;
+}
+
+/*noinspection CssUnusedSymbol*/
+.badge-danger {
+    background-color: red;
+}
+
+/*noinspection CssUnusedSymbol*/
+.badge-warning {
+    background-color: sandybrown;
+}
+
+/*noinspection CssUnusedSymbol*/
+.badge-secondary {
+    background-color: gray;
+}
+
+/*noinspection ALL*/
+.bottomborder {
+    border-bottom: 2px solid #FF4500FF;
+}
+
+/*noinspection ALL*/
+.hover:hover {
+    background-color: orangered;
+}
+
+/*noinspection ALL*/
+.marginl {
+    margin-left: 5px;
+}
+
+.zero-margin {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 1px;
+}
+
+h5 {
+    color: #FF4500FF;
+    font-family: Rubik, serif;
+}
+
+h3 {
+    color: #FF4500FF;
+    font-family: Rubik, serif;
+}
+
+a {
+    text-decoration-color: #FF4500FF;
+    font-family: Rubik, serif;
+}
